@@ -1,4 +1,4 @@
-# Wallet Safety Guide and Checklist
+# Wallet Safety Guide
 OpenWallet Foundation Safe Wallet Special Interest Group (OWF-SW-SIG)<br/>
 v1.1<br/>
 16th July 2024<br/>
@@ -14,6 +14,7 @@ IN NO EVENT WILL ANY OWF PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR 
 
 | Version | Date | Changes | Authors |
 | ------- | -------------- | -------------------------- | --------------------- |
+| v1.1.1   | 23rd July 2024 | Remove "Checklist" from title | Sean Bohan <br/> Tracy Kuhrt |
 | v1.1   | 16th July 2024 | Add front-matter; reformat for Markdown | Sean Bohan <br/> Tracy Kuhrt |
 | v1.0.2 | 10th July 2024 | Final editorial pass, add comments from Safe Wallet SIG | Juliana Cafik |
 | v1.0.1 | 27th June 2024 | Full Edit for _tone_ consistency, reduce duplications, add additional detail and/or context, to align under 4 Pillars and add Executive Summary | Juliana Cafik |
